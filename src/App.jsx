@@ -15,6 +15,7 @@ function App() {
         <title>Serene DistriBution | Supply Chain Solutions for Food, Retail & Catering</title>
         <meta name="title" content="Serene DistriBution | Supply Chain Solutions for Food, Retail & Catering" />
         <meta name="description" content="Serene DistriBution is a family-owned business providing reliable supply chain solutions for the food industry, retail, and catering. We are committed to the growth and success of our partners." />
+        <meta http-equiv="Content-Language" content="en"/>
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
