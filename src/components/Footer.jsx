@@ -6,7 +6,7 @@ const Footer = () => {
       <div id="contact-section" className="container-fluid footer">
         <div className="container py-5">
           <h2 className="text-center text-white mb-5 fs-48 Recoleta">
-            Serene Distrubution Ltd Dubai
+            Serene Distrubution Company
           </h2>
           <div className="row g-5">
             <div className="col-md-6 col-lg-6 col-xl-4">
